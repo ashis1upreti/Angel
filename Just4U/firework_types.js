@@ -1,6 +1,10 @@
 alert('To My beloved Wife 😊🎇🎆🎉🎊');
 alert('Are You Ready???!!!!!!');
 alert('Firstly, I want to let you know that you are just awesome');
+alert('No words can describe how beautiful you are!');
+alert('This is just for you from the buttom of my heart..');
+
+
 
 
 window.onload = function(){
