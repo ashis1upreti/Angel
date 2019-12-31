@@ -1,5 +1,5 @@
 alert('To My beloved Wife 😊🎇🎆🎉🎊');
-alert('Are You Ready???!!!!I hope you like my work!!!');
+alert('Are You Ready???!!!!!!');
 
 
 window.onload = function(){
