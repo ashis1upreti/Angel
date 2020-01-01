@@ -3,6 +3,8 @@ alert('Are You Ready???!!!!!!');
 alert('Firstly, I want to let you know that words cannot describe how awesome you are just awesome');
 alert('You are indeed an angel God send to me, I always thank God for creating you!');
 alert('This is just for you from the buttom of my heart..');
+alert('You might need a headphone though 😃😃😃');
+alert('Here you go.....');
 
 window.onload = function(){
 
